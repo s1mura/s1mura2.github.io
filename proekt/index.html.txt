@@ -1,0 +1,17 @@
+h2 {
+  margin: auto;
+}
+
+div {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#container {
+  width: auto;
+}
+
+#header {
+  background: #F3ED90 ;
+  height: 4700px;
+}
